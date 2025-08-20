@@ -13,3 +13,6 @@ It may be possible to print the bezel, add the glass and then print on the glass
 This part should fit with the glass, however it is not tested. 
 
 Please let me know if you test this part, I can help make adjustments.
+
+<img width="2128" height="1390" alt="image" src="https://github.com/user-attachments/assets/4b441327-b582-4c4e-af08-82beeae1329e" />
+
